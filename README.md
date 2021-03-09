@@ -16,7 +16,7 @@
 <!-- OVERVIEW -->
 
 ## Overview
-https://github.com/Meltem-Karaagac/Shopping_project_ReactNative
+https://github.com/Meltem-Karaagac/Images_gallery_ReactNative
 <!-- ![screenshot](overview/1.gif) -->
 
 
