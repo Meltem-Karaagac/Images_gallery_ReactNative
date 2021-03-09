@@ -16,8 +16,8 @@
 <!-- OVERVIEW -->
 
 ## Overview
-<img src="overview/images.gif" height="400">|
-<!-- ![screenshot](overview/1.gif) -->
+<img src="overview/images.gif" height="500">|
+
 
 
 ### Built With
