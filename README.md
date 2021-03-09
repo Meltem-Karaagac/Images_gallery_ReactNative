@@ -16,7 +16,7 @@
 <!-- OVERVIEW -->
 
 ## Overview
-https://github.com/Meltem-Karaagac/Images_gallery_ReactNative
+<img src="overview/images.gif" height="400">|
 <!-- ![screenshot](overview/1.gif) -->
 
 
@@ -38,8 +38,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```bash
 
-$ git clonehttps://github.com/Meltem-Karaagac/Shopping_project_ReactNative
-
+$ git clonehttps://https://github.com/Meltem-Karaagac/Images_gallery_ReactNative
 
 $ npm install
 
